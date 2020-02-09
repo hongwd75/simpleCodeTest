@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VirtualTileMapEvent" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABABAAAAAAAAAAAAAAAgAAAAQAAIACQAAAAAAA=</HashCode>
+      <FileName>Assets\script\BoardClass\VirtualTileMapBase\VirtualTileMapEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_MYOBJECT_" Collapsed="true">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\GlobalTickTimer\GlobalTickTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TickObject" Collapsed="true">
+    <Position X="6" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\script\GlobalTickTimer\GlobalTickTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalTickTimer" Collapsed="true">
+    <Position X="6" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIFAAAAAAAAAAIAAAAAAAEAAAAIAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\script\GlobalTickTimer\GlobalTickTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Archipelago">
+    <Position X="1" Y="2" Width="2.75" />
+    <AssociationLine Name="Island" Type="Island" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="3.062" />
+        <Point X="4.125" Y="3.062" />
+        <Point X="4.125" Y="4.188" />
+        <Point X="6" Y="4.188" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\script\BoardClass\Archipelago.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Island" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Island">
+    <Position X="6" Y="3.25" Width="2" />
+    <AssociationLine Name="VirtualTileMap" Type="VirtualTileMap" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="4.312" />
+        <Point X="8.375" Y="4.312" />
+        <Point X="8.375" Y="6.035" />
+        <Point X="9.25" Y="6.035" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\BoardClass\Island.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="VirtualTileMap" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ResourceObjectType" Collapsed="true">
+    <Position X="13" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\script\BoardClass\VirtualTileMapBase\VirtualTileMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceObjectInfo" Collapsed="true">
+    <Position X="13" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAABAAAABAA=</HashCode>
+      <FileName>Assets\script\BoardClass\VirtualTileMapBase\VirtualTileMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualTileMap">
+    <Position X="9.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgkABAAAAAAAgACAAAAIAQAAEAABcAwAAAAAIA=</HashCode>
+      <FileName>Assets\script\BoardClass\VirtualTileMapBase\VirtualTileMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
