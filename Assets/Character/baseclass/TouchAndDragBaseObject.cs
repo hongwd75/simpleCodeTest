@@ -26,7 +26,26 @@ public class TouchAndDragBaseObject : MonoBehaviour
     // 자동 이동을 위한 함수
     public virtual void OnMoveTo(Vector3 pos) { }
     public virtual IEnumerator MoveToPosition(Vector3 movepos) { yield return null; }
-  
+
+    public virtual IEnumerator MoveToAccel(Vector3 _speed)
+    {
+        float speed = 1.2f;
+        Vector3 targetPos = transform.position + _speed;
+        float dis = 0.0f;
+        do
+        {
+            speed += 0.4f;
+            dis = Vector3.Distance(transform.position, targetPos);
+            transform.localPosition = Vector3.MoveTowards(transform.position, targetPos, speed * (Time.deltaTime));
+            yield return null;
+        } while (dis >= 0.01f);
+    }
+
+    public void runSmooth(Vector3 _speed)
+    {
+        StartCoroutine(MoveToAccel(_speed));
+    }
+
 
     /// <summary>
     ///  void start() 최 상단에 호출 되도록 한다.
