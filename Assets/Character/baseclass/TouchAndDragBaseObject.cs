@@ -36,13 +36,14 @@ public class TouchAndDragBaseObject : MonoBehaviour
         {
             speed += 0.4f;
             dis = Vector3.Distance(transform.position, targetPos);
-            transform.localPosition = Vector3.MoveTowards(transform.position, targetPos, speed * (Time.deltaTime));
+            transform.position = Vector3.MoveTowards(transform.position, targetPos, speed * (Time.deltaTime));
             yield return null;
         } while (dis >= 0.01f);
     }
 
     public void runSmooth(Vector3 _speed)
     {
+        StopCoroutine("MoveToAccel");
         StartCoroutine(MoveToAccel(_speed));
     }
 
@@ -58,7 +59,7 @@ public class TouchAndDragBaseObject : MonoBehaviour
 
     protected virtual float getYPositionNormal(float land_Y)
     {
-        return land_Y + (m_Collider.bounds.size.y / 2.0f);
+        return land_Y;// + (m_Collider.bounds.size.y / 2.0f);
     }
     protected virtual float getYPositionDrag(float land_Y)
     {

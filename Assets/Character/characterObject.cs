@@ -6,7 +6,7 @@ public class characterObject : TouchAndDragBaseObject
 {
     // Start is called before the first frame update
     MoveChar _mC;
-
+    Animator _Animation;
 
     /// <summary>
     /// 위치로 이동시킨다.
@@ -26,13 +26,13 @@ public class characterObject : TouchAndDragBaseObject
 
     public override IEnumerator MoveToPosition(Vector3 movepos)
     {
-        while(_mC.Run(movepos) == true)
+        _Animation.SetFloat("speed", 1.1f);
+        while (_mC.Run(movepos) == true)
         {
-            yield return new WaitForSeconds(0.03f);
+            yield return null;
         }
-
-
-        //OnTouchEnd(Camera.main.WorldToScreenPoint(movepos));
+        _Animation.SetFloat("speed", 0.0f);
+        
         OnTouchEnd(Camera.main.ViewportToScreenPoint(movepos));
         yield return null;
     }
@@ -46,13 +46,19 @@ public class characterObject : TouchAndDragBaseObject
     void Start()
     {
         baseInit();
-
+        var child = transform.Find("SkeletonOutlaw_Armor").gameObject ;
+        _Animation= child.transform.GetComponent<Animator>();
         _mC = gameObject.AddComponent<MoveChar>();
 
-        
-        if(colorindex == 0) GetComponent<MeshRenderer>().material.color = Color.red;
-        if (colorindex == 1) GetComponent<MeshRenderer>().material.color = Color.green;
-        if (colorindex == 2) GetComponent<MeshRenderer>().material.color = Color.blue;
+        string playidle = "SkeletonOutlaw@Idle{0}" + Random.Range(0, 3).ToString("00");
+
+        _Animation.SetFloat("speed", 0.0f);
+
+        RaycastHit hit;
+        if (Physics.Raycast(transform.position, Vector3.down * 100, out hit, m_RayMaskLayer) == true)
+        {
+            this.transform.position = hit.point;
+        }
         colorindex++;
     }
 

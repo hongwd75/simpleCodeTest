@@ -97,7 +97,7 @@ public class CharacterControlSystem : MonoBehaviour
 
                     Debug.LogFormat("Ended.MOUSEDELTA: {0},{1}", h, v);
                     Vector3 nn = Camera.main.transform.eulerAngles.normalized;
-                    Vector3 addPos = new Vector3(v.x, 0, h) * 4.0f;
+                    Vector3 addPos = new Vector3(v, 0, h) * 4.0f;
 
 
                     _selectedObjectScpit.OnTouchEnd(touchPosition);
