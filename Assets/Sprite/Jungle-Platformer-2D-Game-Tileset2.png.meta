@@ -1,0 +1,2224 @@
+fileFormatVersion: 2
+guid: a5eb79c20114605408db298685a1a33c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6972521285194284743
+    second: Jungle-Platformer-2D-Game-Tileset2_0
+  - first:
+      213: 5568748354858932703
+    second: Jungle-Platformer-2D-Game-Tileset2_1
+  - first:
+      213: 1918644700509213653
+    second: Jungle-Platformer-2D-Game-Tileset2_2
+  - first:
+      213: 3722213107037846212
+    second: Jungle-Platformer-2D-Game-Tileset2_3
+  - first:
+      213: -8306054057720517046
+    second: Jungle-Platformer-2D-Game-Tileset2_4
+  - first:
+      213: 2167125189507865645
+    second: Jungle-Platformer-2D-Game-Tileset2_5
+  - first:
+      213: 4795348833480049148
+    second: Jungle-Platformer-2D-Game-Tileset2_6
+  - first:
+      213: -8404299075925198427
+    second: Jungle-Platformer-2D-Game-Tileset2_7
+  - first:
+      213: 367110043093142914
+    second: Jungle-Platformer-2D-Game-Tileset2_8
+  - first:
+      213: 5356050232401935454
+    second: Jungle-Platformer-2D-Game-Tileset2_9
+  - first:
+      213: 344619969926722626
+    second: Jungle-Platformer-2D-Game-Tileset2_10
+  - first:
+      213: -5271843612772621505
+    second: Jungle-Platformer-2D-Game-Tileset2_11
+  - first:
+      213: -4487850266368324938
+    second: Jungle-Platformer-2D-Game-Tileset2_12
+  - first:
+      213: -783208782342292441
+    second: Jungle-Platformer-2D-Game-Tileset2_13
+  - first:
+      213: -5952365084584757251
+    second: Jungle-Platformer-2D-Game-Tileset2_14
+  - first:
+      213: -3804689339321596396
+    second: Jungle-Platformer-2D-Game-Tileset2_15
+  - first:
+      213: 486462481645076230
+    second: Jungle-Platformer-2D-Game-Tileset2_16
+  - first:
+      213: 3413209277022141941
+    second: Jungle-Platformer-2D-Game-Tileset2_17
+  - first:
+      213: -2812213001323547871
+    second: Jungle-Platformer-2D-Game-Tileset2_18
+  - first:
+      213: -6011618777004399670
+    second: Jungle-Platformer-2D-Game-Tileset2_19
+  - first:
+      213: -2514644857032461837
+    second: Jungle-Platformer-2D-Game-Tileset2_20
+  - first:
+      213: -2129231170769489934
+    second: Jungle-Platformer-2D-Game-Tileset2_21
+  - first:
+      213: -5092227097132153223
+    second: Jungle-Platformer-2D-Game-Tileset2_22
+  - first:
+      213: -5292678640867405986
+    second: Jungle-Platformer-2D-Game-Tileset2_23
+  - first:
+      213: 7097838199616717895
+    second: Jungle-Platformer-2D-Game-Tileset2_24
+  - first:
+      213: -847387570032388362
+    second: Jungle-Platformer-2D-Game-Tileset2_25
+  - first:
+      213: -5503425239498938103
+    second: Jungle-Platformer-2D-Game-Tileset2_26
+  - first:
+      213: 4769135092717541634
+    second: Jungle-Platformer-2D-Game-Tileset2_27
+  - first:
+      213: -374933452542118074
+    second: Jungle-Platformer-2D-Game-Tileset2_28
+  - first:
+      213: -7678449235911968434
+    second: Jungle-Platformer-2D-Game-Tileset2_29
+  - first:
+      213: -654107955288958886
+    second: Jungle-Platformer-2D-Game-Tileset2_30
+  - first:
+      213: 2270473100501135505
+    second: Jungle-Platformer-2D-Game-Tileset2_31
+  - first:
+      213: 6031557066465354839
+    second: Jungle-Platformer-2D-Game-Tileset2_32
+  - first:
+      213: -9195729146924101975
+    second: Jungle-Platformer-2D-Game-Tileset2_33
+  - first:
+      213: 7007119771887515762
+    second: Jungle-Platformer-2D-Game-Tileset2_34
+  - first:
+      213: 8529118430751969908
+    second: Jungle-Platformer-2D-Game-Tileset2_35
+  - first:
+      213: 2569657470318529369
+    second: Jungle-Platformer-2D-Game-Tileset2_36
+  - first:
+      213: -5081368647986258010
+    second: Jungle-Platformer-2D-Game-Tileset2_37
+  - first:
+      213: 2609846174847242714
+    second: Jungle-Platformer-2D-Game-Tileset2_38
+  - first:
+      213: -409362905944021420
+    second: Jungle-Platformer-2D-Game-Tileset2_39
+  - first:
+      213: 7979840651713584759
+    second: Jungle-Platformer-2D-Game-Tileset2_40
+  - first:
+      213: -571522029857887548
+    second: Jungle-Platformer-2D-Game-Tileset2_41
+  - first:
+      213: 3515937918534647332
+    second: Jungle-Platformer-2D-Game-Tileset2_42
+  - first:
+      213: -2971596308564007520
+    second: Jungle-Platformer-2D-Game-Tileset2_43
+  - first:
+      213: 1142692552260146407
+    second: Jungle-Platformer-2D-Game-Tileset2_44
+  - first:
+      213: -7032308287014948839
+    second: Jungle-Platformer-2D-Game-Tileset2_45
+  - first:
+      213: 3955889678520687906
+    second: Jungle-Platformer-2D-Game-Tileset2_46
+  - first:
+      213: -8045914652489142661
+    second: Jungle-Platformer-2D-Game-Tileset2_47
+  - first:
+      213: -6755599579648172043
+    second: Jungle-Platformer-2D-Game-Tileset2_48
+  - first:
+      213: 8356327359281542442
+    second: Jungle-Platformer-2D-Game-Tileset2_49
+  - first:
+      213: -5733110398383218416
+    second: Jungle-Platformer-2D-Game-Tileset2_50
+  - first:
+      213: 993581262657784256
+    second: Jungle-Platformer-2D-Game-Tileset2_51
+  - first:
+      213: -1769883967623101766
+    second: Jungle-Platformer-2D-Game-Tileset2_52
+  - first:
+      213: -6582549860597910682
+    second: Jungle-Platformer-2D-Game-Tileset2_53
+  - first:
+      213: 7621365692333431329
+    second: Jungle-Platformer-2D-Game-Tileset2_54
+  - first:
+      213: 2599100702459202603
+    second: Jungle-Platformer-2D-Game-Tileset2_55
+  - first:
+      213: -6521334068809302462
+    second: Jungle-Platformer-2D-Game-Tileset2_56
+  - first:
+      213: -4238232183900705654
+    second: Jungle-Platformer-2D-Game-Tileset2_57
+  - first:
+      213: 7654033681432820287
+    second: Jungle-Platformer-2D-Game-Tileset2_58
+  - first:
+      213: 2182909905524927516
+    second: Jungle-Platformer-2D-Game-Tileset2_59
+  - first:
+      213: -7912996185576160758
+    second: Jungle-Platformer-2D-Game-Tileset2_60
+  - first:
+      213: 7823481748385945080
+    second: Jungle-Platformer-2D-Game-Tileset2_61
+  - first:
+      213: -1107159498075568271
+    second: Jungle-Platformer-2D-Game-Tileset2_62
+  - first:
+      213: -6704774691102155127
+    second: Jungle-Platformer-2D-Game-Tileset2_63
+  - first:
+      213: 7656647267238319704
+    second: Jungle-Platformer-2D-Game-Tileset2_64
+  - first:
+      213: 2970658427539851254
+    second: Jungle-Platformer-2D-Game-Tileset2_65
+  - first:
+      213: 4977975742128235883
+    second: Jungle-Platformer-2D-Game-Tileset2_66
+  - first:
+      213: -6773628637087182958
+    second: Jungle-Platformer-2D-Game-Tileset2_67
+  - first:
+      213: 4260446191861063727
+    second: Jungle-Platformer-2D-Game-Tileset2_68
+  - first:
+      213: -89687996786610855
+    second: Jungle-Platformer-2D-Game-Tileset2_69
+  - first:
+      213: 2307479548943064939
+    second: Jungle-Platformer-2D-Game-Tileset2_70
+  - first:
+      213: -4227631319994419058
+    second: Jungle-Platformer-2D-Game-Tileset2_71
+  - first:
+      213: -3937884709719686579
+    second: Jungle-Platformer-2D-Game-Tileset2_72
+  - first:
+      213: -8913014545625586260
+    second: Jungle-Platformer-2D-Game-Tileset2_73
+  - first:
+      213: -4523282488202126673
+    second: Jungle-Platformer-2D-Game-Tileset2_74
+  - first:
+      213: -6942575066829362910
+    second: Jungle-Platformer-2D-Game-Tileset2_75
+  - first:
+      213: 5409295079311523822
+    second: Jungle-Platformer-2D-Game-Tileset2_76
+  - first:
+      213: -4940329486255552194
+    second: Jungle-Platformer-2D-Game-Tileset2_77
+  - first:
+      213: -6134227322411223147
+    second: Jungle-Platformer-2D-Game-Tileset2_78
+  - first:
+      213: -1370347913380939874
+    second: Jungle-Platformer-2D-Game-Tileset2_79
+  - first:
+      213: 7931851729414822915
+    second: Jungle-Platformer-2D-Game-Tileset2_80
+  - first:
+      213: -3904346784220314300
+    second: Jungle-Platformer-2D-Game-Tileset2_81
+  - first:
+      213: -1192201295401141867
+    second: Jungle-Platformer-2D-Game-Tileset2_82
+  - first:
+      213: 418798805973346137
+    second: Jungle-Platformer-2D-Game-Tileset2_83
+  - first:
+      213: -5684217211819080848
+    second: Jungle-Platformer-2D-Game-Tileset2_84
+  - first:
+      213: 508157684495071438
+    second: Jungle-Platformer-2D-Game-Tileset2_85
+  - first:
+      213: 2019118399437908000
+    second: Jungle-Platformer-2D-Game-Tileset2_86
+  - first:
+      213: 2055567669509495218
+    second: Jungle-Platformer-2D-Game-Tileset2_87
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 836
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf8c136d7e03f4cb0444ea2f4143df
+      internalID: -6972521285194284743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 831
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f933925ea200444fa3fa3b1f08d958c
+      internalID: 5568748354858932703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 832
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e765113c6c4b4fb28bbf8efa2661f
+      internalID: 1918644700509213653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 834
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da049b3b406b7440a3cabace30641e5
+      internalID: 3722213107037846212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 836
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca091f78a6d03409ee7abd874f51fc
+      internalID: -8306054057720517046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 839
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690c9664921de5c4693a680227a48ff3
+      internalID: 2167125189507865645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 876
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c786e8c79ce7469caa109590562d6
+      internalID: 4795348833480049148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 836
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350789070df22b40a8797e4381760aa
+      internalID: -8404299075925198427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 836
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9e5130951ae340ba6f4ab6f4842f4
+      internalID: 367110043093142914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 834
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25eea9c1044a3408bc7e713fbe078b
+      internalID: 5356050232401935454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 875
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9686984fdc6d4eb0ec62c0ac70d7f
+      internalID: 344619969926722626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_11
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 840
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c07ca17eb64a544aaed6bbeb5e735ad
+      internalID: -5271843612772621505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_12
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 842
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382937eefa82744681021ad95a1673b
+      internalID: -4487850266368324938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 877
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea9457e6f4865046af10b5869aef089
+      internalID: -783208782342292441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_14
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 877
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9180bef66daaa64faeea939f249a3e0
+      internalID: -5952365084584757251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_15
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 878
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa202068a7757249b3ee20bfc55f7e2
+      internalID: -3804689339321596396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 836
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffee22f1ebf4e040a03909fe0d1cb14
+      internalID: 486462481645076230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 834
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771faec4fa123ab4a9a1e96d1107b433
+      internalID: 3413209277022141941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_18
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 836
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6434b2baf224c43b756070b83aa83e
+      internalID: -2812213001323547871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_19
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 838
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e1c2f1353b1e4b9b0f6cecea28944
+      internalID: -6011618777004399670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 837
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead026d417c41ec4a89be924344e5b75
+      internalID: -2514644857032461837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 747
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf761a1b442c14e9772a505fabd7a4
+      internalID: -2129231170769489934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 747
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f67aa692daf3448a4921f37ba72d7e
+      internalID: -5092227097132153223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 747
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a35b50ec672ed429b3e4237b41db3e
+      internalID: -5292678640867405986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 747
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781c49659c45fa4db27d9cb42715598
+      internalID: 7097838199616717895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 747
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a747cf572c0354eb300105407c60a3
+      internalID: -847387570032388362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 789
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f793bb6e13195d4caeed1fd82d53982
+      internalID: -5503425239498938103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 748
+        width: 118
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916b79c127151c499fb819fb1f9dca5
+      internalID: 4769135092717541634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_28
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 752
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2d6c48369d4449af7ed6a169a2ae6
+      internalID: -374933452542118074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_29
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 749
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6c3791df3172448bd3bf8af9b8837
+      internalID: -7678449235911968434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_30
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 749
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5beedf23747bc46936711d5ca87afd
+      internalID: -654107955288958886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_31
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 749
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f71a7baec11e4fbc32aac1a89381b
+      internalID: 2270473100501135505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 748
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ded4b1bde5ef47b803eab1eaa8370
+      internalID: 6031557066465354839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_33
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 749
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74907eda477ea104e903338ef560dc09
+      internalID: -9195729146924101975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_34
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 748
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d169a677e5f9f84db9042a903cec1f4
+      internalID: 7007119771887515762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 752
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5d5e03b7033c46955ede14779a482
+      internalID: 8529118430751969908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_36
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 752
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4b7f74ca14c547a608792e6baa189
+      internalID: 2569657470318529369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 656
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4bb7eb6ba5d2147820070468b35f71
+      internalID: -5081368647986258010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 664
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9c5b60fdcc5e4f8cdb134daf21b48
+      internalID: 2609846174847242714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 659
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158558558ca4eb440b971b282cb757fd
+      internalID: -409362905944021420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_40
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 664
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4acf8143cdd5f448afc59dd0eff6ab
+      internalID: 7979840651713584759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 659
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e390049e98ec4b84fbc77b22bcb76
+      internalID: -571522029857887548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_42
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 699
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca848618f7d6f439458effaf2b3d3f
+      internalID: 3515937918534647332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 662
+        width: 191
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322b8e6e8cdabc44c8a22363ee24e26a
+      internalID: -2971596308564007520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_44
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 659
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ae6cb2ba392c4994123a3afc35f38
+      internalID: 1142692552260146407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_45
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 659
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eda3cf93706cc4bb3faa6092ef495d
+      internalID: -7032308287014948839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_46
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 659
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718585023b9ba741b2b37806a38ca4a
+      internalID: 3955889678520687906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_47
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 660
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388af912f159c944a97f299851bc2d8
+      internalID: -8045914652489142661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_48
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 659
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2af3b47a32caff478b29bae4e79d04b
+      internalID: -6755599579648172043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_49
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 660
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952618201b67644c82b53b773092d5f
+      internalID: 8356327359281542442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_50
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 662
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea5c5e2bfece384189d09a6eee7e186
+      internalID: -5733110398383218416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_51
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 662
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0f696a445882429798ea710ff47e2
+      internalID: 993581262657784256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 496
+        width: 135
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b0639b3a6c7c408bbad4db694d053
+      internalID: -1769883967623101766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_53
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 496
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e8a45f5d2980488d1cfeae036d920
+      internalID: -6582549860597910682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_54
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 496
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc886877a244fc14b88ade603bb7d0df
+      internalID: 7621365692333431329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_55
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 473
+        width: 132
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c875b57bad234cac32772750d0ec7
+      internalID: 2599100702459202603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_56
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 574
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123855edc224886408e3c36b74fe1fc5
+      internalID: -6521334068809302462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_57
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 572
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e606b414065ff94f9da3aafd2c19861
+      internalID: -4238232183900705654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_58
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 572
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98de56372392144941ce86c52ee8da
+      internalID: 7654033681432820287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_59
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 572
+        width: 25
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707fcbaf4618fa40aa6727b0a5a73ff
+      internalID: 2182909905524927516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_60
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 572
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c9103c3069244a86b97c932ceece7
+      internalID: -7912996185576160758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_61
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 573
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4dcd18d9cc43488489a316bc0699b
+      internalID: 7823481748385945080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_62
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 499
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5a40fac860e147b5b92f5c1da96af
+      internalID: -1107159498075568271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_63
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 496
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab8b3846e30d1a40a69203eaf568882
+      internalID: -6704774691102155127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_64
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 495
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55070fdb69fea3449671ff078686ec5
+      internalID: 7656647267238319704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_65
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 495
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af99ba3a86b934cb52f7858b3889e4
+      internalID: 2970658427539851254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_66
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 494
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6899182564b743b0d4c01cdaba242
+      internalID: 4977975742128235883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_67
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 495
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec86e2220a3a7f42a202982f67d6085
+      internalID: -6773628637087182958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 336
+        width: 149
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17c30e9f68ae5408651df3bb109ac6
+      internalID: 4260446191861063727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 336
+        width: 56
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f3d49e40fe9348b08b627193e9b1a
+      internalID: -89687996786610855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_70
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 338
+        width: 59
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa5fe73bb596b44a903025bf70b556
+      internalID: 2307479548943064939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_71
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 338
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83969985f372248a67206799ba7847
+      internalID: -4227631319994419058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_72
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 337
+        width: 123
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27a21ab4566e84da7e6d9e99f0465e
+      internalID: -3937884709719686579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_73
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 416
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7963fc6f2d99a408b1dc903749d105
+      internalID: -8913014545625586260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_74
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 417
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e8a0be5c73c943a5dbbafec5fe367
+      internalID: -4523282488202126673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_75
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 413
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f82c0bc55610dd408bb93f5596347a3
+      internalID: -6942575066829362910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_76
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 414
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b77a9806c6d848b86fb6e994c239e
+      internalID: 5409295079311523822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_77
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 414
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3887cb13e2b146a73d8e2adfc1c17
+      internalID: -4940329486255552194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_78
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 414
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1b0307e3dc2f4e90b1ab36965fc53
+      internalID: -6134227322411223147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_79
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 333
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559958af50985745922c727b5f089a7
+      internalID: -1370347913380939874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_80
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 328
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b4d9db0c07d6488be8d5f62dc08c2
+      internalID: 7931851729414822915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_81
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 336
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88dbe696893134fac29d864c06e2e6
+      internalID: -3904346784220314300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_82
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 332
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7e5b14cb69e142be768240441db85
+      internalID: -1192201295401141867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_83
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 332
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ad5ebe2e6fb44ba64d13355879f40
+      internalID: 418798805973346137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_84
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 375
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc385337213d1c47850557c49137319
+      internalID: -5684217211819080848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_85
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 330
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0a1b7ca42c6c4792b81709e9c0640
+      internalID: 508157684495071438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_86
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 424
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb12ab9da0320a4db8f9f7fa2888d56
+      internalID: 2019118399437908000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle-Platformer-2D-Game-Tileset2_87
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 44
+        width: 425
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a510c79969144cbbb92199d028f32
+      internalID: 2055567669509495218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5423507bd9c620469eaa0f81f374eb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
