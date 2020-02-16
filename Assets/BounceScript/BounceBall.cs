@@ -24,6 +24,7 @@ public class BounceBall : MonoBehaviour
         if(Input.GetMouseButton(0) == true)
         {
             var pos = Input.mousePosition;
+
             if(pos.x < Screen.width / 2)
             {
                 transform.position = new Vector2(transform.position.x - 3.0f * Time.deltaTime, transform.position.y);
@@ -32,7 +33,6 @@ public class BounceBall : MonoBehaviour
             {
                 transform.position = new Vector2(transform.position.x + 3.0f * Time.deltaTime, transform.position.y);
             }
-
         }
     }
 
@@ -42,6 +42,8 @@ public class BounceBall : MonoBehaviour
         if (onGround == true && JumpPower != 0.0f)
         {
             onGround = false;
+            rigidBody.velocity = Vector3.zero;
+            rigidBody.angularVelocity = 0;
             rigidBody.AddForce(Vector2.up * JumpPower, ForceMode2D.Impulse);
         }
         else
