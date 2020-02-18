@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+// https://kylewbanks.com/blog/unity3d-panning-and-pinch-to-zoom-camera-with-touch-and-mouse-input
 public class SampleCam : MonoBehaviour
 {
     public float left = -0.2F;
