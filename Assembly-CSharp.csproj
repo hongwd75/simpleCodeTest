@@ -79,6 +79,7 @@
     <Compile Include="Assets\script\GNB\GNB_Button.cs" />
     <Compile Include="Assets\script\GNB\Trigger.cs" />
     <Compile Include="Assets\script\manager\mainSingleton.cs" />
+    <Compile Include="Assets\script\manager\SampleCam.cs" />
     <Compile Include="Assets\UICanvasManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/unity/project/simpleCodeTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
