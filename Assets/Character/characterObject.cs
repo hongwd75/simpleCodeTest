@@ -33,7 +33,7 @@ public class characterObject : TouchAndDragBaseObject
         }
         _Animation.SetFloat("speed", 0.0f);
         
-        OnTouchEnd(Camera.main.ViewportToScreenPoint(movepos));
+        OnTouchEnd(Camera.main.ViewportToScreenPoint(movepos),Vector3.zero);
         yield return null;
     }
 
@@ -62,7 +62,7 @@ public class characterObject : TouchAndDragBaseObject
         colorindex++;
     }
 
-    public override void OnTouchEnd(Vector3 pos)
+    public override void OnTouchEnd(Vector3 pos, Vector3 ObejctRealPosition)
     {
         RaycastHit hit;
         Ray _ray = Camera.main.ScreenPointToRay(pos);

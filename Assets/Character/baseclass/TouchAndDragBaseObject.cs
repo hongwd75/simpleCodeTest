@@ -69,7 +69,7 @@ public class TouchAndDragBaseObject : MonoBehaviour
     /// <summary>
     /// 
     /// </summary>
-    public virtual void OnTouchBegin(Vector3 pos)
+    public virtual void OnTouchBegin(Vector3 pos,Vector3 ObejctRealPosition)
     {
         if (moveCoroutine != null)
         {
@@ -77,12 +77,12 @@ public class TouchAndDragBaseObject : MonoBehaviour
         }
     }
 
-    public virtual void OnTouchMove(Vector3 oldpos, Vector3 newpos)
+    public virtual void OnTouchMove(Vector3 oldpos, Vector3 newpos, Vector3 ObejctRealPosition)
     {
-        OnDraging(newpos);
+        OnDraging(newpos, ObejctRealPosition);
     }
 
-    public virtual void OnTouchEnd(Vector3 pos)
+    public virtual void OnTouchEnd(Vector3 pos,Vector3 ObejctRealPosition)
     {
     }
 
@@ -98,25 +98,26 @@ public class TouchAndDragBaseObject : MonoBehaviour
     {
 
     }
-    protected virtual void OnDraging(Vector3 pos)
+    protected virtual void OnDraging(Vector3 pos, Vector3 addPos)
     {
         RaycastHit hit;
         Ray _ray = Camera.main.ScreenPointToRay(pos);
         if (Physics.Raycast(_ray, out hit, 1000.0f, m_RayMaskLayer))
         {
-            transform.position = new Vector3(hit.point.x, getYPositionDrag(hit.point.y), hit.point.z);
+            //transform.position = new Vector3(hit.point.x, getYPositionDrag(hit.point.y), hit.point.z) + addPos;
+            transform.position = hit.point + addPos;
         }
     }
 
-    protected virtual void OnDragEnd(Vector3 pos)
+    protected virtual void OnDragEnd(Vector3 pos, Vector3 addPos)
     {
         RaycastHit hit;
         Ray _ray = Camera.main.ScreenPointToRay(pos);
 
         if (Physics.Raycast(_ray, out hit, 1000.0f, m_RayMaskLayer))
         {
-            //hit.transform.gameObject.layer
-            transform.position = new Vector3(hit.point.x, getYPositionNormal(hit.point.y), hit.point.z);
+            //transform.position = new Vector3(hit.point.x, getYPositionNormal(hit.point.y), hit.point.z);
+            transform.position = hit.point + addPos;
         }
     }
 }
