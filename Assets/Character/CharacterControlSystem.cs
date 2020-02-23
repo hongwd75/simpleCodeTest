@@ -18,6 +18,7 @@ public class CharacterControlSystem : MonoBehaviour
     GlobalTickTimer _test = new GlobalTickTimer();
     TouchAndDragBaseObject _selectedObjectScpit = null;
     TouchAndDragBaseObject _lastselectedObjectScpit = null;
+
     private void Start()
     {
         for (int a = 0; a < 10; a++)
@@ -82,15 +83,12 @@ public class CharacterControlSystem : MonoBehaviour
                         _selectedObjectScpit = hit.transform.gameObject.GetComponent<TouchAndDragBaseObject>();
                         if (_selectedObjectScpit != null)
                         {
-                                Vector3 incomingVec = hit.point - _selectedObjectScpit.transform.position;
+                             Vector3 incomingVec = hit.point - _selectedObjectScpit.transform.position;
                              Debug.LogFormat("HIT:{0} - NORMAL {1} = Y:{2}", hit.point, hit.normal, incomingVec);
                             _ObjectToLand = hit.point - incomingVec - hit2.point;
-
-
-
                             _selectedObjectScpit.m_isDragDrop = false;
                             _selectedObjectScpit.OnTouchBegin(touchPosition, _ObjectToLand);
-                            }
+                        }
                     }
                     else
                     {
@@ -116,11 +114,9 @@ public class CharacterControlSystem : MonoBehaviour
                 } else
                if (_selectedObjectScpit.m_isDragDrop == true)
                 {
-                    _selectedObjectScpit.OnTouchMove(_touchPosition, touchPosition, _ObjectToLand);
+                   _selectedObjectScpit.OnTouchMove(_touchPosition, touchPosition, _ObjectToLand);
                 }
-
-                
-                } break;
+            } break;
             case TouchPhase.Ended:
             case TouchPhase.Canceled:
             {
@@ -138,14 +134,17 @@ public class CharacterControlSystem : MonoBehaviour
                     float h = Input.GetAxis("Mouse X");
                     float v = Input.GetAxis("Mouse Y");
 
-                    Debug.LogFormat("Ended.MOUSEDELTA: {0},{1}", h, v);
-                    Vector3 nn = Camera.main.transform.eulerAngles.normalized;
-                    Vector3 addPos = new Vector3(v, 0, h) * 4.0f;
+                    //Debug.LogFormat("Ended.MOUSEDELTA: {0},{1}", h, v);
+                    //Vector3 nn = Camera.main.transform.eulerAngles.normalized;
+                    //Vector3 addPos = new Vector3(v, 0, h) * 4.0f;
 
-                    _lastselectedObjectScpit = _selectedObjectScpit;
-                    _selectedObjectScpit.OnTouchEnd(touchPosition, _ObjectToLand);
-                    _selectedObjectScpit.m_isDragDrop = false;
-                    _selectedObjectScpit.runSmooth(addPos);
+                    if (_selectedObjectScpit.m_isDragDrop == true)
+                    {
+                        _lastselectedObjectScpit = _selectedObjectScpit;
+                        _selectedObjectScpit.OnTouchEnd(touchPosition, _ObjectToLand);
+                        _selectedObjectScpit.m_isDragDrop = false;
+                    }
+                    //_selectedObjectScpit.runSmooth(addPos);
                     _selectedObjectScpit = null;
                     
             } break;

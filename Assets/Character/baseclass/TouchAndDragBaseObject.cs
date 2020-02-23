@@ -104,7 +104,6 @@ public class TouchAndDragBaseObject : MonoBehaviour
         Ray _ray = Camera.main.ScreenPointToRay(pos);
         if (Physics.Raycast(_ray, out hit, 1000.0f, m_RayMaskLayer))
         {
-            //transform.position = new Vector3(hit.point.x, getYPositionDrag(hit.point.y), hit.point.z) + addPos;
             transform.position = hit.point + addPos;
         }
     }
@@ -116,7 +115,6 @@ public class TouchAndDragBaseObject : MonoBehaviour
 
         if (Physics.Raycast(_ray, out hit, 1000.0f, m_RayMaskLayer))
         {
-            //transform.position = new Vector3(hit.point.x, getYPositionNormal(hit.point.y), hit.point.z);
             transform.position = hit.point + addPos;
         }
     }

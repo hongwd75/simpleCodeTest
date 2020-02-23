@@ -14,6 +14,14 @@ public class GNB_Button : MonoBehaviour
         {
             title.GetComponent<Text>().text = gameObject.name;
         }
-       
+    }
+
+    public void onClickGold()
+    {
+        mainSingleton.instance.missileType++;
+        if(mainSingleton.instance.missileType >= 3)
+        {
+            mainSingleton.instance.missileType = 0;
+        }
     }
 }

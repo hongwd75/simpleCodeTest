@@ -6,7 +6,7 @@ public class mainSingleton : MonoBehaviour
 {
     public static mainSingleton instance = null;
     public int Value1 { get; private set; }
-
+    public int missileType = 0;
 
     /// <summary>
     /// 
